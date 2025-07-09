@@ -1,4 +1,4 @@
 # Tyler Woodruff – Application Materials
 
-- 📄 [Resume (PDF)](https://github.com/YourUsername/YourRepoName/blob/main/TylerWoodruff_Resume.pdf?raw=true)
-- 📝 [Cover Letter for BIOTE (PDF)](https://github.com/YourUsername/YourRepoName/blob/main/TylerWoodruff_CoverLetter_BIOTE.pdf?raw=true)
+- 📝 **Cover Letter:** [click here](https://legacystudioco.github.io/Tyler-woodruff-resume/Tyler%20Woodruff%20-%20Cover%20Letter.pdf)
+- 📄 **Resume:** [click here](https://legacystudioco.github.io/Tyler-woodruff-resume/Tyler%20Woodruff%202025.pdf)
